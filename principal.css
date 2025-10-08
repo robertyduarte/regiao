@@ -12,6 +12,8 @@ table, td, th{
     border-color: yellowgreen;
     background-color: lightgrey;
     text-align: center;
+    width: 70%;
+    height: 50%;
 }
 a{
     color: black;
