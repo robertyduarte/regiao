@@ -11,6 +11,7 @@ table, td, th{
     color: navy; /*define a cor da fonte*/
     border-color: yellowgreen;
     background-color: lightgrey;
+    text-align: center;
 }
 a{
     color: black;
