@@ -1,0 +1,38 @@
+body{
+    background-image: url(imagens/fundo_tipo1.png);
+    font-family: cursive;
+    color: lightcyan;
+}
+table, td, th{
+    background-color: white;
+    color: black;
+    text-align: center;
+    width: 70%;
+    border: 3px dotted black;
+    border-radius: 10px;
+}
+h1{
+    background-color: rgba(0, 255, 255, 0.5) ;
+    width: 40%;
+    border-radius: 10px;
+    border: 4px solid black;
+}
+h2{
+    text-decoration: underline;
+    font-weight: bolder;
+}
+h3{
+    font-size: xx-large;
+    font-style: oblique;
+    text-decoration: underline;
+    color: aquamarine;
+}
+a{
+    color: yellowgreen;
+}
+a:hover{
+    color: black;
+}
+p{
+    font-size: x-large;
+}

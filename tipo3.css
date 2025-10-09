@@ -1,0 +1,41 @@
+body{
+    background-image: url(imagens/fundo_tipo3.gif);
+    background-size: cover;
+    font-family: 'Courier New', Courier, monospace;
+    color: lightskyblue;
+}
+h1{
+    color: blueviolet;
+    font-style: italic;
+    border: 3px solid yellow;
+    background-color: greenyellow;
+    border-radius: 10px;
+}
+table, td, th{
+    background-color: darkkhaki;
+    font-size: 35px;
+    color: yellow;
+    text-align: center;
+    border: 5px double black;
+}
+h2{
+    text-align: left;
+    font-style: oblique;
+
+}
+h3{
+    font-style: oblique;
+    font-size: xx-large;
+    border: 3px dotted;
+    background-color: darkcyan;
+    width: 50%;
+}
+p{
+    text-align: right;
+    font-size: x-large;
+    color: aqua;
+}
+a:hover{
+    color: lime;
+    font-family: monospace;
+}
